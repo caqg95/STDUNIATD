@@ -1,0 +1,71 @@
+<style type="text/css">
+	*{
+		margin:10px;
+		padding:0px;
+	}
+
+	h1
+	{
+		display: block !important;
+		color:#10519B !important;
+		font-family: Gill Sans MT,Gill Sans,My Gill Sans,sans-serif; 
+		text-align: center !important;
+		font-size: 35px !important;
+	}
+
+	form label
+	{
+		color: #003782 !important;
+		color: rgb(0, 0, 0);
+		background-color: transparent;
+		text-align: center;
+		font-size: 30px;
+		margin: 5px;
+		padding: 15px;
+	}
+
+	.boxlogin
+	{
+		background: #E7E7E7 !important;
+		margin: 50px auto;
+		width: 700px;
+		border-radius: 8px;
+		box-shadow: 0px,2px,10px #6d6d6d;
+		
+	}
+	.formulario
+	{
+		margin: auto auto;
+		width: 430px;
+	    box-shadow: 1px 1px 2px #6d6d6d  !important;
+	}
+	.encabezado
+	{
+		margin: 10px,auto;
+		padding-top: 0px,auto;
+		padding-right: 50px;
+		
+	}
+	.aceptar
+	{
+		margin-left: 15px ;
+	}
+	.logouni
+	{
+		margin-left: 0px auto ;
+		padding-left: 90px;
+		padding-top: 5px;
+	}
+	.logostd
+	{
+		margin-right: 0px auto ;
+		padding-left: 90px;
+		padding-top: 0px;
+	
+	}
+	.texto
+	{
+		margin-left: 0px,auto ;
+		padding-top: 50px,auto;
+	}
+</style>

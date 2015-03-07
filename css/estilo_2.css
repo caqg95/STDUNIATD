@@ -1,0 +1,49 @@
+
+
+.encabezado{
+	background:#3A5795; 
+	box-shadow:1px 1px 4px #000 !important;
+    color:#fff;
+    height: 50px;
+    margin: 2px;
+}
+.logostd{
+	width: 100px !important;
+		margin-top: 0px;
+}
+.logouni{
+	width: 100px !important;
+	margin-left: 250px;
+	margin-top: 0px;
+}
+.texto{
+		padding-top: 0px;
+		margin-left: 100px;
+		margin-top: 0px;
+
+}
+h1{
+	padding-top: 0px;
+	font-size: 65px !important;
+
+
+ }
+ .contenido
+ {
+ 	background:#E9EAED;
+ 	margin:0px;
+ 	height: 600px;
+ }
+.derecho{
+	background:#fff !important; 
+	width: 80px;
+	height:600px;
+}
+.deres{
+
+	background:#fff !important; 
+	width:80px;
+	height: 600px;
+	display:block;
+	margin:0px;
+}
